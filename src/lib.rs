@@ -30,3 +30,5 @@ pub use lines_codec::*;
 mod any_delimiter_codec;
 
 pub use any_delimiter_codec::*;
+
+pub use bytes;
